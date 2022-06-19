@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EBfxuR+jugxtZtyQBcXElhga2Dbf+OIxcNH/XNH/7V8P8ROEmr03V34XjY0Vsv1Faz7unv0FexQBxdDOHJLHDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alokb\\source\\repos\\DevOps\\Shopping\\Shopping\\Shopping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alokb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

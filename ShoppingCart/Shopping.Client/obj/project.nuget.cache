@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LgPTXYCV4pKEaHRadHyQaPSQIx6CEusMIVNZqUpWyfUB0GOeV9BcH8qs/LNcL4SrTRdB2PWm6EgTs8LuUI9cYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alokb\\source\\repos\\DevOps\\ShoppingCart\\Shopping.Client\\Shopping.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alokb\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\alokb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
